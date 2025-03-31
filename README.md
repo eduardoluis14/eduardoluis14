@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Luís Eduardo, a Computer Science student at UFAM 👋
+- 📚 Desenvolvimento de Software
+- ⚡ Atualmente estudando no curso de extensão Full Stack WebAcademy do IComp/Motorola
+- 😄 Hobbies: tocar instrumentos musicais e jogar xadrez online
 
 <!--
 **eduardoluis14/eduardoluis14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
