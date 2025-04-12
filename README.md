@@ -2,12 +2,14 @@
 - 📚 Desenvolvimento de Software
 - ⚡ Atualmente estudando no curso de extensão Full Stack WebAcademy do IComp/Motorola
 - 😄 Hobbies: tocar instrumentos musicais e jogar xadrez online
-## Status
-<div>
-  <a href="https://github.com/eduardoluis14">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoluis14&show_icons=true&theme=dark&include_all_commits=true&count_private_true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoluis14&slayout=compact&langs_count=16&theme=dark" />
-</div>
+
+
+## 📈 GitHub Status
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoluis14&show_icons=true&theme=dark&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoluis14&layout=compact&langs_count=8&theme=dark" />
+</p>
 
 ## Conhecimentos
 <div style="display: inline_block"><br>
